@@ -14,3 +14,9 @@ y eventos del panel. Esta versión admite multitud de dibujos por cada lienzo, v
 configuración como grosor, transparencias, mover dibujos etc.
 
 ![Ejemplo P7](/images/p7.PNG)
+
+## Mejora Entrega 2 con imagenes:
+
+Continuación de la entrega 2 con la inclusion de imagenes, en las que se pueden abrir, guardar y dibujar sobre ellas.
+
+![Ejemplo P8](/images/p8.PNG)
