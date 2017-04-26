@@ -20,3 +20,11 @@ configuración como grosor, transparencias, mover dibujos etc.
 Continuación de la entrega 2 con la inclusion de imagenes, en las que se pueden abrir, guardar y dibujar sobre ellas.
 
 ![Ejemplo P8](/images/p8.PNG)
+
+## Entrega 3:
+
+Denominada Practica9, mejora de la práctica anterior, podemos configurar el brillo de la imagen y aplicar filtros.
+
+
+![Ejemplo P9](/images/p9.PNG)
+![Ejemplo P9](/images/p9_1.PNG)
