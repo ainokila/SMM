@@ -28,3 +28,11 @@ Denominada Practica9, mejora de la práctica anterior, podemos configurar el bri
 
 ![Ejemplo P9](/images/p9.PNG)
 ![Ejemplo P9](/images/p9_1.PNG)
+
+## Entrega Final:
+
+Esta es la última versión del proyecto, incluye un reproductor de videos, grabador de audio, visualizador y captura de webcam, asi como múltiples efectos de imagen nuevos.
+
+![Final](/images/final.PNG)
+
+Todo esta accesible y documentado en el fichero de documentación.

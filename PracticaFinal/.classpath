@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jna-3.5.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/platform-3.5.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="dist/lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/SM.CVR.jar"/>
+	<classpathentry kind="lib" path="dist/lib/sm.image.jar"/>
+	<classpathentry kind="lib" path="dist/lib/sm.sound.jar"/>
+	<classpathentry kind="lib" path="dist/lib/vlcj-3.8.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="lib" path="dist/PracticaFinal.jar"/>
+	<classpathentry kind="lib" path="jna-3.5.2.jar"/>
+	<classpathentry kind="lib" path="platform-3.5.2.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="sm.image.jar"/>
+	<classpathentry kind="lib" path="sm.sound.jar"/>
+	<classpathentry kind="lib" path="vlcj-3.8.0.jar"/>
+	<classpathentry kind="lib" path="webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
